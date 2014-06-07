@@ -1,5 +1,5 @@
-#ifndef SYMBOLS_H
-#define SYMBOLS_H
+#ifndef TEST_SYMBOLS_H
+#define TEST_SYMBOLS_H
 
 #include <math.h>
 
@@ -9,4 +9,4 @@ enum symbols{
 char *symbolnames[] = {"BAD", "NUM", "COND", "VAR", "OP", "ELSE", "EOL"};
 
  
-#endif //SYMBOLS_H
+#endif //TEST_SYMBOLS_H
